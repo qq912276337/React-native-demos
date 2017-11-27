@@ -1,0 +1,22 @@
+{
+  "name": "react-native-dllogfile01",
+  "version": "1.0.1",
+  "description": "sml",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qq912276337/React-native-demos.git"
+  },
+  "author": "sml",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qq912276337/React-native-demos/issues"
+  },
+  "homepage": "https://github.com/qq912276337/React-native-demos#readme"
+}
